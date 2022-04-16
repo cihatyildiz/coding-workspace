@@ -1,0 +1,23 @@
+# Project exclude paths
+/cmake-build-debug/
+
+*.out
+.vscode
+*.ipch
+*.VC.db
+*.suo
+*.pdb
+*.exe
+*.pdb
+*.idb
+*.lastbuildstate
+*.tlog
+*.obj
+*.log
+*.ilk
+*.recipe
+*.user
+*.filters
+*.opendb
+*.db-shm
+*.db-wal
